@@ -1,0 +1,3 @@
+C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Level Editor\Level Editor\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Level Editor\Level Editor\obj\Xbox 360\Debug\Level_Editor.MapEditor.resources
+C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Level Editor\Level Editor\obj\Xbox 360\Debug\Xbox 360 Copy of Level Editor.csproj.GenerateResource.Cache

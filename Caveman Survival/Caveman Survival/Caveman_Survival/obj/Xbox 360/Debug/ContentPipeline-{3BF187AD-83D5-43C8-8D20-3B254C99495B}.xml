@@ -1,0 +1,587 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Backgrounds\Tree Background.png</Source>
+      <Name>Backgrounds\Tree Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Backgrounds\Tree Background.xnb</Output>
+      <Time>2015-01-20T21:52:47.861305+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Back Button.png</Source>
+      <Name>Buttons\Back Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Back Button.xnb</Output>
+      <Time>2015-01-19T18:18:45.6475031+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Credits Button.png</Source>
+      <Name>Buttons\Credits Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Credits Button.xnb</Output>
+      <Time>2015-01-19T18:18:45.663504+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Exit Button.png</Source>
+      <Name>Buttons\Exit Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Exit Button.xnb</Output>
+      <Time>2015-01-19T18:18:45.7195072+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Options Button.png</Source>
+      <Name>Buttons\Options Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Options Button.xnb</Output>
+      <Time>2015-01-19T18:18:45.7345081+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Play Button.png</Source>
+      <Name>Buttons\Play Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Play Button.xnb</Output>
+      <Time>2015-01-19T18:18:45.7475088+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Tree Background 2.png</Source>
+      <Name>Backgrounds\Tree Background 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Backgrounds\Tree Background 2.xnb</Output>
+      <Time>2015-01-20T21:52:54.6106911+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Gem.png</Source>
+      <Name>Textures\Gem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\Gem.xnb</Output>
+      <Time>2010-08-17T12:26:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\TitleScreen.png</Source>
+      <Name>Textures\TitleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\TitleScreen.xnb</Output>
+      <Time>2010-08-17T12:26:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Gem.png</Source>
+      <Name>Textures\Sprites\Gem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\Sprites\Gem.xnb</Output>
+      <Time>2015-01-25T16:22:42.1594075+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Enemy1\Die.png</Source>
+      <Name>Textures\Sprites\Enemy1\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\Sprites\Enemy1\Die.xnb</Output>
+      <Time>2015-01-25T16:24:46.2978889+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Enemy1\Idle.png</Source>
+      <Name>Textures\Sprites\Enemy1\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\Sprites\Enemy1\Idle.xnb</Output>
+      <Time>2015-01-25T16:24:46.2978889+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Enemy1\Run.png</Source>
+      <Name>Textures\Sprites\Enemy1\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\Sprites\Enemy1\Run.xnb</Output>
+      <Time>2015-01-25T16:24:46.3290889+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Enemy2\Die.png</Source>
+      <Name>Textures\Sprites\Enemy2\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\Sprites\Enemy2\Die.xnb</Output>
+      <Time>2015-01-25T16:24:56.8923076+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Enemy2\Idle.png</Source>
+      <Name>Textures\Sprites\Enemy2\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\Sprites\Enemy2\Idle.xnb</Output>
+      <Time>2015-01-25T16:24:56.8923076+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Enemy2\Run.png</Source>
+      <Name>Textures\Sprites\Enemy2\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\Sprites\Enemy2\Run.xnb</Output>
+      <Time>2015-01-25T16:24:56.8923076+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Enemy3\Die.png</Source>
+      <Name>Textures\Sprites\Enemy3\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\Sprites\Enemy3\Die.xnb</Output>
+      <Time>2015-01-25T16:25:05.8935234+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Enemy3\Idle.png</Source>
+      <Name>Textures\Sprites\Enemy3\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\Sprites\Enemy3\Idle.xnb</Output>
+      <Time>2015-01-25T16:25:05.8935234+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Enemy3\Run.png</Source>
+      <Name>Textures\Sprites\Enemy3\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\Sprites\Enemy3\Run.xnb</Output>
+      <Time>2015-01-25T16:25:05.9091235+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Enemy4\Die.png</Source>
+      <Name>Textures\Sprites\Enemy4\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\Sprites\Enemy4\Die.xnb</Output>
+      <Time>2015-01-25T16:25:15.0195395+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Enemy4\Idle.png</Source>
+      <Name>Textures\Sprites\Enemy4\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\Sprites\Enemy4\Idle.xnb</Output>
+      <Time>2015-01-25T16:25:15.0351395+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Enemy4\Run.png</Source>
+      <Name>Textures\Sprites\Enemy4\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\Sprites\Enemy4\Run.xnb</Output>
+      <Time>2015-01-25T16:25:15.0351395+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Celebrate.png</Source>
+      <Name>Textures\Sprites\Player\Celebrate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\Sprites\Player\Celebrate.xnb</Output>
+      <Time>2015-01-25T16:25:26.64356+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Die.png</Source>
+      <Name>Textures\Sprites\Player\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\Sprites\Player\Die.xnb</Output>
+      <Time>2015-01-25T16:25:26.64356+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Website Button.png</Source>
+      <Name>Buttons\Website Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Website Button.xnb</Output>
+      <Time>2015-01-29T18:38:31.188008+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Pause Button.png</Source>
+      <Name>Buttons\Pause Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Pause Button.xnb</Output>
+      <Time>2015-02-01T15:27:00.3275598+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\General Button.png</Source>
+      <Name>Buttons\General Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\General Button.xnb</Output>
+      <Time>2015-02-13T22:10:54.9700938+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Graphics Button.png</Source>
+      <Name>Buttons\Graphics Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Graphics Button.xnb</Output>
+      <Time>2015-02-13T22:10:55.0110961+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Sound Button.png</Source>
+      <Name>Buttons\Sound Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Sound Button.xnb</Output>
+      <Time>2015-02-13T22:10:55.0871005+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Exit Button Highlighted.png</Source>
+      <Name>Buttons\Exit Button Highlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Exit Button Highlighted.xnb</Output>
+      <Time>2015-02-01T15:27:05.1658365+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Back Button Highlighted.png</Source>
+      <Name>Buttons\Back Button Highlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Back Button Highlighted.xnb</Output>
+      <Time>2015-02-01T15:26:57.673408+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Credits Button Highlighted.png</Source>
+      <Name>Buttons\Credits Button Highlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Credits Button Highlighted.xnb</Output>
+      <Time>2015-02-01T15:27:00.0935464+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\General Button Highlighted.png</Source>
+      <Name>Buttons\General Button Highlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\General Button Highlighted.xnb</Output>
+      <Time>2015-02-01T15:27:01.327617+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Graphics Button Highlighted.png</Source>
+      <Name>Buttons\Graphics Button Highlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Graphics Button Highlighted.xnb</Output>
+      <Time>2015-02-01T15:26:57.7234109+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Options Button Highlighted.png</Source>
+      <Name>Buttons\Options Button Highlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Options Button Highlighted.xnb</Output>
+      <Time>2015-02-01T15:28:59.6173828+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Pause Button Highlighted.png</Source>
+      <Name>Buttons\Pause Button Highlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Pause Button Highlighted.xnb</Output>
+      <Time>2015-02-01T15:29:00.2714202+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Play Button Highlighted.png</Source>
+      <Name>Buttons\Play Button Highlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Play Button Highlighted.xnb</Output>
+      <Time>2015-02-01T15:27:00.9325944+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Sound Button Highlighted.png</Source>
+      <Name>Buttons\Sound Button Highlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Sound Button Highlighted.xnb</Output>
+      <Time>2015-02-01T15:27:01.0556014+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Website Button Highlighted.png</Source>
+      <Name>Buttons\Website Button Highlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Website Button Highlighted.xnb</Output>
+      <Time>2015-02-01T15:27:01.2076101+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Sound- On Highlighted.png</Source>
+      <Name>Buttons\Sound- On Highlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Sound- On Highlighted.xnb</Output>
+      <Time>2015-02-26T19:49:27.844683+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Sound- On.png</Source>
+      <Name>Buttons\Sound- On</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Sound- On.xnb</Output>
+      <Time>2015-02-26T19:49:27.8856854+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Sound- Off Highlighted.png</Source>
+      <Name>Buttons\Sound- Off Highlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Sound- Off Highlighted.xnb</Output>
+      <Time>2015-02-26T19:49:27.7306765+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Buttons\Sound- Off.png</Source>
+      <Name>Buttons\Sound- Off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Buttons\Sound- Off.xnb</Output>
+      <Time>2015-02-26T19:49:27.7776792+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Credits\Credits.jpg</Source>
+      <Name>Credits\Credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Credits\Credits.xnb</Output>
+      <Time>2015-02-26T19:49:28.0416943+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Logo.png</Source>
+      <Name>Textures\Logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\Logo.xnb</Output>
+      <Time>2015-02-13T22:10:55.1921065+00:00</Time>
+    </Item>
+    <Item>
+      <Source>XboxButtons\XboxControllerbuttons.png</Source>
+      <Name>XboxButtons\XboxControllerbuttons</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\XboxButtons\XboxControllerbuttons.xnb</Output>
+      <Time>2015-02-26T19:49:28.3257105+00:00</Time>
+    </Item>
+    <Item>
+      <Source>XboxButtons\AButton.png</Source>
+      <Name>XboxButtons\AButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\XboxButtons\AButton.xnb</Output>
+      <Time>2015-02-26T19:49:27.931688+00:00</Time>
+    </Item>
+    <Item>
+      <Source>XboxButtons\BButton.png</Source>
+      <Name>XboxButtons\BButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\XboxButtons\BButton.xnb</Output>
+      <Time>2015-02-26T19:49:27.96669+00:00</Time>
+    </Item>
+    <Item>
+      <Source>XboxButtons\LBButton.png</Source>
+      <Name>XboxButtons\LBButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\XboxButtons\LBButton.xnb</Output>
+      <Time>2015-02-26T19:49:27.9656899+00:00</Time>
+    </Item>
+    <Item>
+      <Source>XboxButtons\LTButton.png</Source>
+      <Name>XboxButtons\LTButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\XboxButtons\LTButton.xnb</Output>
+      <Time>2015-02-26T19:49:27.9986918+00:00</Time>
+    </Item>
+    <Item>
+      <Source>XboxButtons\RBButton.png</Source>
+      <Name>XboxButtons\RBButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\XboxButtons\RBButton.xnb</Output>
+      <Time>2015-02-26T19:49:28.0176929+00:00</Time>
+    </Item>
+    <Item>
+      <Source>XboxButtons\RTButton.png</Source>
+      <Name>XboxButtons\RTButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\XboxButtons\RTButton.xnb</Output>
+      <Time>2015-02-26T19:49:28.0626955+00:00</Time>
+    </Item>
+    <Item>
+      <Source>XboxButtons\XButton.png</Source>
+      <Name>XboxButtons\XButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\XboxButtons\XButton.xnb</Output>
+      <Time>2015-02-26T19:49:28.1146985+00:00</Time>
+    </Item>
+    <Item>
+      <Source>XboxButtons\YButton.png</Source>
+      <Name>XboxButtons\YButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\XboxButtons\YButton.xnb</Output>
+      <Time>2015-02-26T19:49:28.1577009+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Idle.png</Source>
+      <Name>Textures\Sprites\Player\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\Sprites\Player\Idle.xnb</Output>
+      <Time>2015-03-09T23:54:49.4140948+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Run.png</Source>
+      <Name>Textures\Sprites\Player\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\Sprites\Player\Run.xnb</Output>
+      <Time>2015-03-10T00:22:04.1685974+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Jump.png</Source>
+      <Name>Textures\Sprites\Player\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\Sprites\Player\Jump.xnb</Output>
+      <Time>2015-03-10T07:49:54.8976657+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PlatformTiles.png</Source>
+      <Name>Textures\PlatformTiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Textures\PlatformTiles.xnb</Output>
+      <Time>2015-03-11T07:53:08.5334916+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Pericles8.spritefont</Source>
+      <Name>Fonts\Pericles8</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Fonts\Pericles8.xnb</Output>
+      <Time>2010-08-17T12:26:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound Effects\Button Click.wav</Source>
+      <Name>Sound Effects\Button Click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\Sound Effects\Button Click.xnb</Output>
+      <Time>2015-02-01T15:27:03.0617162+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3BF187AD-83D5-43C8-8D20-3B254C99495B}</ContentProjectGUID>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_SurvivalContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-03T22:51:25.8261164+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

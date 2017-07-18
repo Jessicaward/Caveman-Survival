@@ -1,0 +1,8 @@
+﻿//CHANGE LOG
+
+This is for our purpose only, we need a way of knowing what we have both Changed in the code
+Any new features or changes to others code should be documented
+NOTE: We need to add a walking and running. At the moment he only runs
+
+============================================================================================
+Matthew: Changed Player controls to WASD instead of Arrow Keys

@@ -1,0 +1,62 @@
+Content\Backgrounds\Tree Background.xnb
+Content\Buttons\Back Button.xnb
+Content\Buttons\Credits Button.xnb
+Content\Buttons\Exit Button.xnb
+Content\Buttons\Options Button.xnb
+Content\Buttons\Play Button.xnb
+Content\Backgrounds\Tree Background 2.xnb
+Content\Textures\Gem.xnb
+Content\Textures\PlatformTiles.xnb
+Content\Textures\TitleScreen.xnb
+Content\Textures\Sprites\Gem.xnb
+Content\Textures\Sprites\Enemy1\Die.xnb
+Content\Textures\Sprites\Enemy1\Idle.xnb
+Content\Textures\Sprites\Enemy1\Run.xnb
+Content\Textures\Sprites\Enemy2\Die.xnb
+Content\Textures\Sprites\Enemy2\Idle.xnb
+Content\Textures\Sprites\Enemy2\Run.xnb
+Content\Textures\Sprites\Enemy3\Die.xnb
+Content\Textures\Sprites\Enemy3\Idle.xnb
+Content\Textures\Sprites\Enemy3\Run.xnb
+Content\Textures\Sprites\Enemy4\Die.xnb
+Content\Textures\Sprites\Enemy4\Idle.xnb
+Content\Textures\Sprites\Enemy4\Run.xnb
+Content\Textures\Sprites\Player\Celebrate.xnb
+Content\Textures\Sprites\Player\Die.xnb
+Content\Textures\Sprites\Player\Idle.xnb
+Content\Textures\Sprites\Player\Jump.xnb
+Content\Textures\Sprites\Player\Run.xnb
+Content\Fonts\Pericles8.xnb
+Content\Buttons\Website Button.xnb
+Content\Buttons\Pause Button.xnb
+Content\Buttons\General Button.xnb
+Content\Buttons\Graphics Button.xnb
+Content\Buttons\Sound Button.xnb
+Content\Buttons\Exit Button Highlighted.xnb
+Content\Buttons\Back Button Highlighted.xnb
+Content\Buttons\Credits Button Highlighted.xnb
+Content\Buttons\General Button Highlighted.xnb
+Content\Buttons\Graphics Button Highlighted.xnb
+Content\Buttons\Options Button Highlighted.xnb
+Content\Buttons\Pause Button Highlighted.xnb
+Content\Buttons\Play Button Highlighted.xnb
+Content\Buttons\Sound Button Highlighted.xnb
+Content\Buttons\Website Button Highlighted.xnb
+Content\Sound Effects\Button Click.xnb
+Content\Textures\Logo.xnb
+Content\Buttons\Sound- On Highlighted.xnb
+Content\Buttons\Sound- On.xnb
+Content\Buttons\Sound- Off Highlighted.xnb
+Content\Buttons\Sound- Off.xnb
+Content\Credits\Credits.xnb
+Content\XboxButtons\XboxControllerbuttons.xnb
+Content\XboxButtons\AButton.xnb
+Content\XboxButtons\BButton.xnb
+Content\XboxButtons\LBButton.xnb
+Content\XboxButtons\LTButton.xnb
+Content\XboxButtons\RBButton.xnb
+Content\XboxButtons\RTButton.xnb
+Content\XboxButtons\XButton.xnb
+Content\XboxButtons\YButton.xnb
+Content\Maps\MAP000.MAP
+Content\Maps\MAP001.MAP

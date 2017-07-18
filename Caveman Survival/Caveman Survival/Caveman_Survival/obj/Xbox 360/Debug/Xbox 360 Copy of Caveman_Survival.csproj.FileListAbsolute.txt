@@ -1,0 +1,2 @@
+C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\obj\Xbox 360\Debug\Xbox 360 Copy of Caveman_Survival.csprojResolveAssemblyReference.cache
+C:\Users\Killian\Desktop\Folders\DBG\Junior Achievement\Caveman Survival\Caveman Survival\Caveman_Survival\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
