@@ -1,0 +1,7 @@
+  Caveman Survival is a 2D platform scrolling game for Windows. It was created by Matthew Ward, Jessica Ward, Killian Comerford, Joshua Lowe and Nathan Murray.
+
+  It was originally planned and developed for Junior Achievement Isle of Man, in which we had the chance to create our own company and develop a product. We then developed a Christmas edition of the game for a charity stall at a Christmas fayre.
+
+  We used XNA with C# to develop the game as we had previous experience with this language and framework from other projects. 
+  
+  The Caveman Survival project helped further our knowledge in developing software, and helped build on our team-working and presentation skills.
